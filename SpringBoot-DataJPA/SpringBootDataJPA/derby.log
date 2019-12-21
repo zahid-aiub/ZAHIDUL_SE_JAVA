@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Dec 20 08:56:50 BDT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-016f-213c-7f1e-00000dbe67b0 
+on database directory memory:/home/zahid/Projects/test/SpringBoot-DataJPA/SpringBootDataJPA/testdb with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/home/zahid/.m2/repository/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_232-8u232-b09-0ubuntu1~18.04.1-b09
+user.dir=/home/zahid/Projects/test/SpringBoot-DataJPA/SpringBootDataJPA
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-72-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
